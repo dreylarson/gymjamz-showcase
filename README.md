@@ -19,3 +19,16 @@ The project demonstrates practical experience in mobile interface development, c
 The current prototype includes the foundational home screen and gym-based listening feed. Live listening activity, music-service integration, and expanded social functionality remain in development or planned.
 
 This repository serves as a public portfolio showcase. The application's source code is maintained in a private repository.
+
+## Technology Stack
+GymJamz is developed using the following technologies:
+
+| Technology | Role in the Project |
+|---|---|
+| **React Native** | Building the application's cross-platform mobile interface using reusable components. |
+| **TypeScript** | Providing static typing for components and application data. |
+| **Expo** | Managing the development environment and testing the application. |
+| **React Hooks** | Managing component state and lifecycle behavior. |
+| **Git & GitHub** | Version control, feature development, and source code management. |
+
+The application follows a component-based development approach, emphasizing maintainability, consistent interface design, and scalability.
