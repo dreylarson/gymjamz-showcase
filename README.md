@@ -3,11 +3,13 @@
 Status: In development | Platform: Mobile | Repository: Public Showcase (Source Private)
 
 ## Project Overview
-GymJamz is a gym-focused social music discovery application designed to connect people through the music they're listening to during their workouts.
+GymJamz is a mobile application designed to connect gym-goers through the music they're listening to during their workouts.
 
-The core concept is simple: open GymJamz at your gym and discover what other members are listening to in real time. Rather than relying solely on algorithms and curated playlists, users can discover new songs, artists, and genres through the listening activity of people sharing their workout environment.
+The core concept is simple: open GymJamz at your gym and discover what other members are listening to in real time. Rather than relying solely on algorithms and curated playlists, users can discover new songs, artists, and genres through the live listening activity of people sharing their workout environment.
 
-GymJamz aims to transform an otherwise individual experience, listening to music while exercising, into an opportunity for social connection and organic music discovery.
+The experience is designed to be interactive. When users play music through GymJamz, their listening activity will appear in their gym's live feed, allowing other members to discover what they're listening to.
+
+GymJamz aims to transform an otherwise individual experience—listening to music while exercising—into an opportunity for social connection and organic music discovery.
 
 ## Development Focus
 GymJamz is an independently developed mobile application built using React Native, Expo, and TypeScript.
