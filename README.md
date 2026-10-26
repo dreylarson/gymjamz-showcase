@@ -23,7 +23,7 @@ GymJamz aims to transform an otherwise individual experience, listening to music
 </p>
 
 <p align="center">
-  <em>Early development preview — React Native / Expo</em>
+  <em>Early development preview - React Native / Expo</em>
 </p>
 
 ## Development Focus
