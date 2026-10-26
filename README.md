@@ -9,7 +9,7 @@ The core concept is simple: open GymJamz at your gym and discover what other mem
 
 The experience is designed to be interactive. When users play music through GymJamz, their listening activity will appear in their gym's live feed, allowing other members to discover what they're listening to.
 
-GymJamz aims to transform an otherwise individual experience—listening to music while exercising—into an opportunity for social connection and organic music discovery.
+GymJamz aims to transform an otherwise individual experience, listening to music while exercising, into an opportunity for social connection and organic music discovery.
 
 ## Development Focus
 GymJamz is an independently developed mobile application built using React Native, Expo, and TypeScript.
@@ -30,5 +30,6 @@ GymJamz is developed using the following technologies:
 | **Expo** | Managing the development environment and testing the application. |
 | **React Hooks** | Managing component state and lifecycle behavior. |
 | **Git & GitHub** | Version control, feature development, and source code management. |
+| **Supabase** | Backend database support and implementation. |
 
 The application follows a component-based development approach, emphasizing maintainability, consistent interface design, and scalability.
