@@ -11,6 +11,21 @@ The experience is designed to be interactive. When users play music through GymJ
 
 GymJamz aims to transform an otherwise individual experience, listening to music while exercising, into an opportunity for social connection and organic music discovery.
 
+## App Preview
+<p align="center">
+  <img src="screenshots/GJ-home_screen.png" width="250" alt="GymJamz Home Feed" />
+  <img src="screenshots/GJ-gyms_tab.png" width="250" alt="GymJamz Gyms Tab" />
+</p>
+
+<p align="center">
+  <img src="screenshots/GJ-profile_tab.png" width="250" alt="GymJamz Profile Tab" />
+  <img src="screenshots/GJ-other_user_profile.png" width="250" alt="GymJamz Listener Profile" />
+</p>
+
+<p align="center">
+  <em>Early development preview — React Native / Expo</em>
+</p>
+
 ## Development Focus
 GymJamz is an independently developed mobile application built using React Native, Expo, and TypeScript.
 
